@@ -40,6 +40,7 @@ readXlsxFile(`./IN/zp01.xlsx`).then((rows) => {
     }
     
     console.log(str)
+    
     // for (let i = 2; i < rows.length; i++) {
 
     //     let obj = new objPrice(
